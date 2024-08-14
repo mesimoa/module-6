@@ -1,28 +1,4 @@
 
-BAN6420_Module_6
-
-Type / to search
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-We are having a problem billing your account. Please update your payment method or call your payment provider for details on why the transaction failed.
-You can contact support with any questions.
-Commit
-Update README.md
- main
-@tonybanjo2001
-tonybanjo2001 committed yesterday 
-1 parent c5fb54f
-commit 06c51be
-Showing 1 changed file with 86 additions and 0 deletions.
- 86 changes: 86 additions & 0 deletions86  
-README.md
-Original file line number	Diff line number	Diff line change
-@@ -1 +1,87 @@
 # BAN6420_Module_6
 
 This file provides an overview of the Python code designed and executed in Google Colab. The code builds, trains, and evaluates a Convolutional Neural Network (CNN) using the TensorFlow and Keras libraries on the Fashion MNIST dataset. This project aims to classify images of fashion items into one of ten categories using deep learning techniques.
