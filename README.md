@@ -1,7 +1,4 @@
-Skip to content
-Navigation Menu
-tonybanjo2001
-/
+
 BAN6420_Module_6
 
 Type / to search
@@ -115,20 +112,3 @@ Run the cells sequentially to install dependencies, build, train, evaluate, and 
 Feel free to experiment with different model architectures, hyperparameters, and datasets to further improve and adapt the model to other classification tasks.
 0 comments on commit 06c51be
 @mesimoa
-Comment
- 
-Leave a comment
- 
- You’re not receiving notifications from this thread.
-Footer
-© 2024 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact
-Manage cookies
-Do not share my personal information
-Update README.md · tonybanjo2001/BAN6420_Module_6@06c51be
